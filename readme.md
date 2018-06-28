@@ -18,9 +18,17 @@ It is a practice of the image optimization and transformation of the color syste
 
 Please refer to the requirements of the project and the report in the project folder for detail.
 
+
+
 ### Project2: Wink detection and Shush detection
 Python / OpenCV3 / Desktop Application
 
 Following the object detection method proposed by Paul Viola and Michael Jones, and using the cascade classifiers provided by OpenCV, to detect faces, eyes and mouths. The goal is to obtain a best detection result on the given input.
 
 Please refer to the requirements of the project and the documentation in the project folder for detail.
+
+Wink Detection:
+![snapshot of Wink Detection](project2-1.png)
+
+Shush Detection:
+![snapshot of Shush Detection](project2-2.png)

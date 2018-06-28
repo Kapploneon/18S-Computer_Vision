@@ -17,6 +17,6 @@
 2. - to test on the sample images in the folder:     
       input `python [filename].py [foldername]`  
    - to test on live video:  
-      input `python [filename].py`
-for part I, [filename]: `DetectWink`, [foldername]: `wink`
+      input `python [filename].py`  
+for part I, [filename]: `DetectWink`, [foldername]: `wink`  
 for part II, [filename]: `DetectShush`, [folername]: `shush`

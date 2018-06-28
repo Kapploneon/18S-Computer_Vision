@@ -27,8 +27,8 @@ Following the object detection method proposed by Paul Viola and Michael Jones, 
 
 Please refer to the requirements of the project and the documentation in the project folder for detail.
 
-Wink Detection:
-<img src="project2-1.png" title="snapshot of Wink Detection" width="400">
+Wink Detection:  
+<img src="project2-1.png" title="snapshot of Wink Detection" width="300">
 
-Shush Detection:
-<img src="project2-2.png" title="snapshot of Shush Detection" width="400">
+Shush Detection:  
+<img src="project2-2.png" title="snapshot of Shush Detection" width="300">
